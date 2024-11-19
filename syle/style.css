@@ -1,0 +1,32 @@
+body{
+    position: relative;
+  min-height: 100vh;
+  padding-bottom: 60px; 
+}
+.dd{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 700;
+font-size: 80px;
+}
+.wc{
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+.wc:hover{
+    background-color: aqua;
+}
+.si{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:25px ;
+font-weight: 500;
+
+
+}
+.cs{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight: 400;
+    
+}
